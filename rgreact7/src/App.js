@@ -11,7 +11,7 @@ function App() {
       <div className="App-body">
         <Pagecontent 
         kichwa = 'React 7 day bootcamp'
-        name = 'Lavinia Mwirigi'
+        name = 'Viva Mwirigi'
         />
         <Pagecontent
         kichwa = 'Tigania East M.P 2032'
@@ -19,7 +19,7 @@ function App() {
         />
         <Pagecontent 
         kichwa = 'React 7 day bootcamp'
-        name = 'Lavinia Mwirigi'
+        name = 'Viva Mwirigi'
         />
         <Pagecontent
         kichwa = 'Tigania East M.P 2032'
@@ -27,7 +27,7 @@ function App() {
         />
         <Pagecontent 
         kichwa = 'React 7 day bootcamp'
-        name = 'Lavinia Mwirigi'
+        name = 'Viva Mwirigi'
         />
         <Pagecontent
         kichwa = 'Tigania East M.P 2032'
@@ -35,7 +35,7 @@ function App() {
         />
         <Pagecontent 
         kichwa = 'React 7 day bootcamp'
-        name = 'Lavinia Mwirigi'
+        name = 'Viva Mwirigi'
         />
         <Pagecontent
         kichwa = 'Tigania East M.P 2032'
@@ -43,12 +43,33 @@ function App() {
         />
         <Pagecontent 
         kichwa = 'React 7 day bootcamp'
-        name = 'Lavinia Mwirigi'
+        name = 'Viva Mwirigi'
         />
         <Pagecontent
         kichwa = 'Tigania East M.P 2032'
         name = 'Hon. Brio Rigiih'
         />
+        <Pagecontent 
+        kichwa = 'React 7 day bootcamp'
+        name = 'Viva Mwirigi'
+        />
+        <Pagecontent 
+        kichwa = 'React 7 day bootcamp'
+        name = 'Viva Mwirigi'
+        />
+        <Pagecontent 
+        kichwa = 'React 7 day bootcamp'
+        name = 'Viva Mwirigi'
+        />
+        <Pagecontent 
+        kichwa = 'React 7 day bootcamp'
+        name = 'Viva Mwirigi'
+        />
+        <Pagecontent 
+        kichwa = 'React 7 day bootcamp'
+        name = 'Viva Mwirigi'
+        />
+        
  
         <Footer />   
       </div>
