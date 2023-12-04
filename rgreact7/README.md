@@ -1,4 +1,4 @@
-<div align="center"># Getting Started with Create React App </div>
+<div align="center"> <h1> Getting Started with Create React App </h1></div>
 ## Author's Details.
 Name: *Brian Mwirigi Gikundi.*
 
