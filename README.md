@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+<div align="center"># Getting Started with Create React App </div>
+## Author's Details.
+Name: *Brian Mwirigi Gikundi.*
+
+Email: *mwirigihbrian@gmail.com*
+
+Tel:*+254792223078.*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
